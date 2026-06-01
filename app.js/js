@@ -142,5 +142,6 @@ function mostrarMensaje(texto, tipo) {
 
     setTimeout(() => {
         mensajeDiv.style.display = "none";
-    }, 4000);
+  }, 4000);
+
 }
