@@ -1,3 +1,4 @@
+alert("JavaScript cargado correctamente");
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-app.js";
 import { getDatabase, ref, push, get } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-database.js";
 
